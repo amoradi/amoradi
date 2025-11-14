@@ -6,7 +6,7 @@
 
 I'm a **Senior Software Engineer** with 11 years of experience spanning **frontend**, **mobile**, and **full-stack development**. I specialize in **data visualization**, **React ecosystems**, and **high-performance web applications**. Currently founder of **Left Hash**, a real-time arbitrage detection platform for sports betting and prediction markets.
 
-I'm fond of sound money, markets, sports and good coffee :coffee: I'm pursuing a MS in Computer Science from Georgia Tech, go jackets! :bee:
+I'm fond of sound money, markets, sports and :coffee:. I'm pursuing a MS in Computer Science from Georgia Tech, go jackets! :bee:
 
 ## Highlights
 
@@ -18,7 +18,7 @@ I'm fond of sound money, markets, sports and good coffee :coffee: I'm pursuing a
 
 **Kraken/Cryptowatch** - Software Engineer (2018-2024)
 - Promoted from Software Engineer II to Senior across Frontend, Mobile, and Full Stack roles
-- Delivered **Kraken Wallet** - cross-chain, self-custodial Web3 wallet (native mobile app)
+- Delivered **[Kraken Wallet](https://www.kraken.com/wallet)** - cross-chain, self-custodial Web3 wallet (native mobile app)
 - Spearheaded conversion of data visualization codebase into reusable charting library
 - Built scalable client-side data management systems
 - Mentored junior engineers and increased team productivity
