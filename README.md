@@ -18,7 +18,7 @@ I'm fond of sound money, markets, sports and :coffee:. I'm pursuing a MS in Comp
 
 **Kraken/Cryptowatch** - Software Engineer (2018-2024)
 - Promoted from Software Engineer II to Senior across Frontend, Mobile, and Full Stack roles
-- Delivered **[Kraken Wallet](https://www.kraken.com/wallet)** - cross-chain, self-custodial Web3 wallet (native mobile app)
+- Delivered **<a href="https://www.kraken.com/wallet" target="_blank">Kraken Wallet</a>** - cross-chain, self-custodial Web3 wallet (native mobile app)
 - Spearheaded conversion of data visualization codebase into reusable charting library
 - Built scalable client-side data management systems
 - Mentored junior engineers and increased team productivity
@@ -30,11 +30,11 @@ I'm fond of sound money, markets, sports and :coffee:. I'm pursuing a MS in Comp
 - Expert in performance optimization for data-heavy applications
 
 **Open Source Impact**
-- [Scintilla](https://www.npmjs.com/package/scintilla) - React sparklines library
+- <a href="https://www.npmjs.com/package/scintilla" target="_blank">Scintilla</a> - React sparklines library
 
 ## Projects
 
-### [Left Hash](https://lefthash.com) - Real-time Arbitrage Detection Platform
+### <a href="https://lefthash.com" target="_blank">Left Hash</a> - Real-time Arbitrage Detection Platform
 **Next.js | TypeScript | Web3 | Real-time WebSockets | Prediction Markets**
 
 Revolutionary arbitrage detection platform identifying guaranteed profit opportunities across sports betting and prediction markets:
@@ -44,7 +44,7 @@ Revolutionary arbitrage detection platform identifying guaranteed profit opportu
 - Three arbitrage vectors: sportsbook-to-sportsbook, prediction market-to-prediction market, and cross-platform
 - Tiered subscription model with real-time notifications and API access
 
-### [Sports Spy](https://github.com/amoradi/sports-spy) - Sports Data API
+### <a href="https://github.com/amoradi/sports-spy" target="_blank">Sports Spy</a> - Sports Data API
 **NestJS | TypeScript | PostgreSQL | WebSockets**
 
 High-performance sports data aggregation service with:
@@ -54,7 +54,7 @@ High-performance sports data aggregation service with:
 - Optimized database indexing and caching
 - Blue-green deployment strategy
 
-### [Scintilla](https://www.npmjs.com/package/scintilla) - React Sparklines Library
+### <a href="https://www.npmjs.com/package/scintilla" target="_blank">Scintilla</a> - React Sparklines Library
 **React | SVG | TypeScript | Data Visualization**
 
 A composable, SVG-based React sparklines library with:
