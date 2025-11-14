@@ -1,8 +1,4 @@
-# Aaron Moradi
-
----
-
-## About Me
+Hi, I'm Aaron :wave:
 
 I'm a **Senior Software Engineer** with 11 years of experience spanning **frontend**, **mobile**, and **full-stack development**. I specialize in **data visualization**, **React ecosystems**, and **high-performance web applications**. Currently founder of **Left Hash**, a real-time arbitrage detection platform for sports betting and prediction markets.
 
