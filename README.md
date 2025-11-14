@@ -1,10 +1,12 @@
-Hi, I'm Aaron :wave:
+## Hi, I'm Aaron :wave:
+
+[![Email](https://img.shields.io/badge/Email-moradi.aaron@proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moradi.aaron@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron_Moradi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaron-moradi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aaron.moradi.fyi-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://aaron.moradi.fyi)
 
 I'm a **Senior Software Engineer** with 11 years of experience spanning **frontend**, **mobile**, and **full-stack development**. I specialize in **data visualization**, **React ecosystems**, and **high-performance web applications**. Currently founder of **Left Hash**, a real-time arbitrage detection platform for sports betting and prediction markets.
 
----
-
-## Professional Highlights
+## Highlights
 
 **Left Hash** - Founder (2024-Present)
 - Building real-time arbitrage detection platform for sports betting and prediction markets
@@ -28,9 +30,7 @@ I'm a **Senior Software Engineer** with 11 years of experience spanning **fronte
 **Open Source Impact**
 - [Scintilla](https://www.npmjs.com/package/scintilla) - React sparklines library
 
----
-
-## Featured Projects
+## Projects
 
 ### [Left Hash](https://lefthash.com) - Real-time Arbitrage Detection Platform
 **Next.js | TypeScript | Web3 | Real-time WebSockets | Prediction Markets**
@@ -61,9 +61,7 @@ A composable, SVG-based React sparklines library with:
 - Full TypeScript support
 
 
----
-
-## Tech Stack
+## My Tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -88,14 +86,4 @@ A composable, SVG-based React sparklines library with:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
-
-## Connect
-
-[![Email](https://img.shields.io/badge/Email-moradi.aaron@proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moradi.aaron@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron_Moradi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaron-moradi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amoradi.github.io-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://amoradi.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-amoradi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amoradi)
-
----
 
