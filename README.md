@@ -6,6 +6,8 @@
 
 I'm a **Senior Software Engineer** with 11 years of experience spanning **frontend**, **mobile**, and **full-stack development**. I specialize in **data visualization**, **React ecosystems**, and **high-performance web applications**. Currently founder of **Left Hash**, a real-time arbitrage detection platform for sports betting and prediction markets.
 
+I'm fond of sound money, markets, sports and good coffee :coffee: I'm pursuing a MS in Computer Science from Georgia Tech, go jackets! :bee:
+
 ## Highlights
 
 **Left Hash** - Founder (2024-Present)
