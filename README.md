@@ -90,35 +90,8 @@ A composable, SVG-based React sparklines library with:
 
 ## Formal Learning
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-<div style="flex: 1; min-width: 300px;">
-
-**MS Computer Science** - In progress  
-Georgia Institute of Technology
-
-**BA Art & Humanities**  
-University of Texas at Dallas
-
-**Plano Senior High School**  
-1st/2nd chair trumpet, Band, Jazz Band, Orchestra  
-Varsity Football kicker, National Honor Society
-
-</div>
-<div style="flex: 1; min-width: 300px;">
-
-**<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7T5HCG36BTKG" target="_blank">Decentralized Finance (DeFi): The Future of Finance</a>**  
-Duke Coursera
-
-**<a href="https://www.codecademy.com/profiles/Programer/certificates/5f8f903b4c5f2700128bf8ea" target="_blank">Back-End Engineer Career Path Certification</a>**  
-Codecademy
-
-**<a href="https://www.linkedin.com/school/dappcamp/" target="_blank">Cohort 4 - Solidity, Ethers JS</a>**  
-DappCamp
-
-**<a href="https://www.linkedin.com/in/aaron-moradi/details/certifications/" target="_blank">JavaScript Development MSA</a>**  
-Collin College
-
-</div>
-</div>
+| **Education** | **Certifications** |
+|---------------|-------------------|
+| **MS Computer Science** - In progress<br/>Georgia Institute of Technology<br/><br/>**BA Art & Humanities**<br/>University of Texas at Dallas<br/><br/>**Plano Senior High School**<br/>1st/2nd chair trumpet, Band, Jazz Band, Orchestra<br/>Varsity Football kicker, National Honor Society | **<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7T5HCG36BTKG" target="_blank">Decentralized Finance (DeFi): The Future of Finance</a>**<br/>Duke Coursera<br/><br/>**<a href="https://www.codecademy.com/profiles/Programer/certificates/5f8f903b4c5f2700128bf8ea" target="_blank">Back-End Engineer Career Path Certification</a>**<br/>Codecademy<br/><br/>**<a href="https://www.linkedin.com/school/dappcamp/" target="_blank">Cohort 4 - Solidity, Ethers JS</a>**<br/>DappCamp<br/><br/>**<a href="https://www.linkedin.com/in/aaron-moradi/details/certifications/" target="_blank">JavaScript Development MSA</a>**<br/>Collin College |
 
 
