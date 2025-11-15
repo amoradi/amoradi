@@ -88,4 +88,28 @@ A composable, SVG-based React sparklines library with:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+## Formal Learning
+
+**MS Computer Science** - In progress  
+Georgia Institute of Technology
+
+**BA Art & Humanities**  
+University of Texas at Dallas
+
+**<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7T5HCG36BTKG" target="_blank">Decentralized Finance (DeFi): The Future of Finance</a>**  
+Duke Coursera
+
+**<a href="https://www.codecademy.com/profiles/Programer/certificates/5f8f903b4c5f2700128bf8ea" target="_blank">Back-End Engineer Career Path Certification</a>**  
+Codecademy
+
+**<a href="https://www.linkedin.com/school/dappcamp/" target="_blank">Cohort 4 - Solidity, Ethers JS</a>**  
+DappCamp
+
+**<a href="https://www.linkedin.com/in/aaron-moradi/details/certifications/" target="_blank">JavaScript Development MSA</a>**  
+Collin College
+
+**Plano Senior High School**  
+1st/2nd chair trumpet, Band, Jazz Band, Orchestra  
+Varsity Football kicker, National Honor Society
+
 
