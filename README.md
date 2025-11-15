@@ -90,11 +90,21 @@ A composable, SVG-based React sparklines library with:
 
 ## Formal Learning
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="flex: 1; min-width: 300px;">
+
 **MS Computer Science** - In progress  
 Georgia Institute of Technology
 
 **BA Art & Humanities**  
 University of Texas at Dallas
+
+**Plano Senior High School**  
+1st/2nd chair trumpet, Band, Jazz Band, Orchestra  
+Varsity Football kicker, National Honor Society
+
+</div>
+<div style="flex: 1; min-width: 300px;">
 
 **<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7T5HCG36BTKG" target="_blank">Decentralized Finance (DeFi): The Future of Finance</a>**  
 Duke Coursera
@@ -108,8 +118,7 @@ DappCamp
 **<a href="https://www.linkedin.com/in/aaron-moradi/details/certifications/" target="_blank">JavaScript Development MSA</a>**  
 Collin College
 
-**Plano Senior High School**  
-1st/2nd chair trumpet, Band, Jazz Band, Orchestra  
-Varsity Football kicker, National Honor Society
+</div>
+</div>
 
 
