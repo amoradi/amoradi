@@ -19,6 +19,16 @@ I'm fond of sound money, markets, sports and :coffee:. I'm pursuing a MS in Comp
 **Kraken/Cryptowatch** - Software Engineer (2018-2024)
 - Promoted from Software Engineer II to Senior across Frontend, Mobile, and Full Stack roles
 - Delivered **<a href="https://www.kraken.com/wallet" target="_blank">Kraken Wallet</a>** - cross-chain, self-custodial Web3 wallet (native mobile app)
+  - Seeded the team, leaped from no React Native experience to delivering features across the stack
+  - Built asset search functionality
+  - Developed DeFi positions features: migrated v1, vaults and Zapper integration (under abstracted/proxied endpoint) full stack
+  - Implemented number formatting (i18n) + currency setting, cross platform
+  - End-to-end DeFi integration (vaults and Zapper integrations)
+  - WalletConnect integration (multi account)
+- Built onchain swap app - integrated Li.Fi cross-chain bridge aggregation and Dynamic account abstraction
+  - Li.Fi integration: unified any-to-any cross-chain swaps across 100+ bridges and DEXes via single SDK
+  - Dynamic integration: EIP-4337 account abstraction with gasless transactions and smart wallet delegation
+  - Zero-dev account abstraction providing seamless Web3 UX with social recovery and batch transactions
 - Spearheaded conversion of data visualization codebase into reusable charting library
 - Built scalable client-side data management systems
 - Mentored junior engineers and increased team productivity
