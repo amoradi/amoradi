@@ -1,8 +1,6 @@
 ## Hi, I'm Aaron :wave:
 
-[![Email](https://img.shields.io/badge/Email-moradi.aaron@proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moradi.aaron@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron_Moradi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaron-moradi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aaron.moradi.fyi-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://aaron.moradi.fyi)
+📧 [moradi.aaron@proton.me](mailto:moradi.aaron@proton.me) • 💼 [LinkedIn](https://linkedin.com/in/aaron-moradi) • 🌐 [aaron.moradi.fyi](https://aaron.moradi.fyi)
 
 I'm a **Senior Software Engineer** with 11 years of experience spanning **frontend**, **mobile**, and **full-stack development**. I specialize in **data visualization**, **React ecosystems**, and **high-performance web applications**. Currently founder of **Left Hash**, a real-time arbitrage detection platform for sports betting and prediction markets.
 
