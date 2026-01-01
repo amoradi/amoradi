@@ -8,13 +8,13 @@ I'm a generally curious chap, fond of sound money, markets, sports and :coffee:.
 
 ## Highlights
 
-**Left Hash** - Founder (2024-Present)
+**Left Hash** - Founder (6/2025-Present)
 - Building real-time arbitrage detection platform for sports betting and prediction markets
 - Integrating traditional sportsbooks with Kalshi and Polymarket for cross-platform opportunities
 - Developing immersive casino-esque visual interfaces for complex financial data
 - Targeting $10B+ US betting market and emerging prediction market space
 
-**Kraken/Cryptowatch** - Software Engineer (2018-2024)
+**Kraken/Cryptowatch** - Software Engineer (2018-2025)
 - Promoted from Software Engineer II to Senior across Frontend, Mobile, and Full Stack roles
 - Delivered **<a href="https://www.kraken.com/wallet" target="_blank">Kraken Wallet</a>** - cross-chain, self-custodial Web3 wallet (native mobile app)
   - Seeded the team, leaped from no React Native experience to delivering features across the stack
