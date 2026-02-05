@@ -8,7 +8,7 @@ I'm a generally curious chap, fond of sound money, markets, sports and :coffee:.
 
 ## Highlights
 
-**Left Hash** - Founder (6/2025-Present)
+**<a href="https://lefthash.com" target="_blank">Left Hash</a>** - Founder (6/2025-Present)
 - Building real-time arbitrage detection platform for sports betting and prediction markets
 - Integrating traditional sportsbooks with Kalshi and Polymarket for cross-platform opportunities
 - Developing immersive casino-esque visual interfaces for complex financial data
@@ -51,6 +51,15 @@ Revolutionary arbitrage detection platform identifying guaranteed profit opportu
 - Immersive casino-esque visual interface with live odds boards
 - Three arbitrage vectors: sportsbook-to-sportsbook, prediction market-to-prediction market, and cross-platform
 - Tiered subscription model with real-time notifications and API access
+
+### <a href="https://skynet.markets" target="_blank">Skynet</a> - Prediction Market Monitoring Platform
+**Next.js | React | TypeScript | FastAPI | Python | PostgreSQL | WebSockets**
+
+Free platform monitoring unusual trading activity across Kalshi and Polymarket:
+- Market-level detection: price movements >15%, volume spikes 2x+, high-volume tight markets
+- Trade-level detection: large bets ($5k+), whale activity, coordinated trading, off-hours activity
+- Scans 1,000+ markets every 30 seconds with SQLAlchemy persistence
+- Clerk authentication and Stripe billing integration
 
 ### <a href="https://github.com/amoradi/sports-spy" target="_blank">Sports Spy</a> - Sports Data API
 **NestJS | TypeScript | PostgreSQL | WebSockets**
